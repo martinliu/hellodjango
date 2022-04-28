@@ -1,0 +1,17 @@
+Watching for file changes with StatReloader
+[28/Apr/2022 05:33:50] "GET /hello/ HTTP/1.1" 200 59
+Not Found: /favicon.ico
+[28/Apr/2022 05:33:50] "GET /favicon.ico HTTP/1.1" 404 2221
+/Users/martinliu/code/hellodjango/hello/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+April 28, 2022 - 05:33:17
+Django version 4.0.4, using settings 'hellodjango.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+[28/Apr/2022 05:34:26] "GET /hello/ HTTP/1.1" 200 54
