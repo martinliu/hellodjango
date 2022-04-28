@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 # Create your views here.
 def index(request):
-    return HttpResponse("Hello, Ansible. It's a must known DevOps tools for Dev")
+    return HttpResponse("Hello, Ansible Demo. It's a must known DevOps tools for Dev")
